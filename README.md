@@ -80,4 +80,4 @@ Sequence of winners: [1, 2, 4, 8, 1, 2, 4, 8]
 ## 📈 Waveform Analysis
 The waveform below demonstrates the "Fairness" property. When all agents request access simultaneously (req = 0xF), the grant signal rotates one position per clock cycle, ensuring zero starvation.
 
-![Data Flow](docs/wave1.png)
+![Data Flow](docs/wave.png)
